@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "66401d4ec72a0026bfa0097d"
+  },
+  "jugador": "Rafael Nadal",
+  "puntos": 6,
+  "partidos_ganados": 2,
+  "partidos_perdidos": 0
+},
+{
+  "_id": {
+    "$oid": "66401d4ec72a0026bfa0097e"
+  },
+  "jugador": "Novak Djokovic",
+  "puntos": 6,
+  "partidos_ganados": 2,
+  "partidos_perdidos": 0
+},
+{
+  "_id": {
+    "$oid": "66401d4ec72a0026bfa0097f"
+  },
+  "jugador": "Stefanos Tsitsipas",
+  "puntos": 3,
+  "partidos_ganados": 1,
+  "partidos_perdidos": 1
+},
+{
+  "_id": {
+    "$oid": "66401d4ec72a0026bfa00980"
+  },
+  "jugador": "Roger Federer",
+  "puntos": 0,
+  "partidos_ganados": 0,
+  "partidos_perdidos": 1
+},
+{
+  "_id": {
+    "$oid": "66401d4ec72a0026bfa00981"
+  },
+  "jugador": "Andy Murray",
+  "puntos": 0,
+  "partidos_ganados": 0,
+  "partidos_perdidos": 1
+},
+{
+  "_id": {
+    "$oid": "66401d4ec72a0026bfa00982"
+  },
+  "jugador": "Carlos Alcaraz",
+  "puntos": 0,
+  "partidos_ganados": 0,
+  "partidos_perdidos": 1
+},
+{
+  "_id": {
+    "$oid": "66401d4ec72a0026bfa00983"
+  },
+  "jugador": "Daniil Medvedev",
+  "puntos": 0,
+  "partidos_ganados": 0,
+  "partidos_perdidos": 1
+}]
