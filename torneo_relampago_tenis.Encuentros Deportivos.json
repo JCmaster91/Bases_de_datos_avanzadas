@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66400ccfc72a0026bfa00947"
+  },
+  "jugador1": "Rafael Nadal",
+  "jugador2": "Roger Federer",
+  "resultado": "Rafael Nadal",
+  "torneo": "Cuartos de Final - Torneo Relámpago de Tenis"
+},
+{
+  "_id": {
+    "$oid": "66400ccfc72a0026bfa00948"
+  },
+  "jugador1": "Novak Djokovic",
+  "jugador2": "Andy Murray",
+  "resultado": "Novak Djokovic",
+  "torneo": "Cuartos de Final - Torneo Relámpago de Tenis"
+},
+{
+  "_id": {
+    "$oid": "66400ccfc72a0026bfa00949"
+  },
+  "jugador1": "Stefanos Tsitsipas",
+  "jugador2": "Carlos Alcaraz",
+  "resultado": "Stefanos Tsitsipas",
+  "torneo": "Cuartos de Final - Torneo Relámpago de Tenis"
+},
+{
+  "_id": {
+    "$oid": "66400ccfc72a0026bfa0094a"
+  },
+  "jugador1": "Rafael Nadal",
+  "jugador2": "Stefanos Tsitsipas",
+  "resultado": "Rafael Nadal",
+  "torneo": "Semifinales - Torneo Relámpago de Tenis"
+},
+{
+  "_id": {
+    "$oid": "66400ccfc72a0026bfa0094b"
+  },
+  "jugador1": "Novak Djokovic",
+  "jugador2": "Daniil Medvedev",
+  "resultado": "Novak Djokovic",
+  "torneo": "Semifinales - Torneo Relámpago de Tenis"
+}]

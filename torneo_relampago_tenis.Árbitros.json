@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "66400bcbc72a0026bfa00940"
+  },
+  "nombre": "Carlos Ramos",
+  "país": "Portugal"
+},
+{
+  "_id": {
+    "$oid": "66400bcbc72a0026bfa00941"
+  },
+  "nombre": "Eva Asderaki",
+  "país": "Grecia"
+},
+{
+  "_id": {
+    "$oid": "66400bcbc72a0026bfa00942"
+  },
+  "nombre": "Mariusz Cicak",
+  "país": "Polonia"
+},
+{
+  "_id": {
+    "$oid": "66400bcbc72a0026bfa00943"
+  },
+  "nombre": "Marija Cicak",
+  "país": "Croacia"
+},
+{
+  "_id": {
+    "$oid": "66400bcbc72a0026bfa00944"
+  },
+  "nombre": "Mohamed Lahyani",
+  "país": "Suecia"
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66400b42c72a0026bfa00929"
+  },
+  "nombre": "Rafael Nadal",
+  "país": "España",
+  "edad": 35,
+  "ranking_mundial": 3
+},
+{
+  "_id": {
+    "$oid": "66400b42c72a0026bfa0092a"
+  },
+  "nombre": "Roger Federer",
+  "país": "Suiza",
+  "edad": 40,
+  "ranking_mundial": 8
+},
+{
+  "_id": {
+    "$oid": "66400b42c72a0026bfa0092b"
+  },
+  "nombre": "Novak Djokovic",
+  "país": "Serbia",
+  "edad": 34,
+  "ranking_mundial": 1
+},
+{
+  "_id": {
+    "$oid": "66400b42c72a0026bfa0092c"
+  },
+  "nombre": "Andy Murray",
+  "país": "Reino Unido",
+  "edad": 34,
+  "ranking_mundial": 121
+},
+{
+  "_id": {
+    "$oid": "66400b42c72a0026bfa0092d"
+  },
+  "nombre": "Stefanos Tsitsipas",
+  "país": "Grecia",
+  "edad": 23,
+  "ranking_mundial": 4
+}]

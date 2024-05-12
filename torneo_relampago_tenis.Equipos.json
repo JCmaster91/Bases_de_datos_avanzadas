@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "66400b82c72a0026bfa00931"
+  },
+  "nombre_equipo": "Rafael Nadal",
+  "país_equipo": "España"
+},
+{
+  "_id": {
+    "$oid": "66400b82c72a0026bfa00932"
+  },
+  "nombre_equipo": "Roger Federer",
+  "país_equipo": "Suiza"
+},
+{
+  "_id": {
+    "$oid": "66400b82c72a0026bfa00933"
+  },
+  "nombre_equipo": "Novak Djokovic",
+  "país_equipo": "Serbia"
+},
+{
+  "_id": {
+    "$oid": "66400b82c72a0026bfa00934"
+  },
+  "nombre_equipo": "Andy Murray",
+  "país_equipo": "Reino Unido"
+},
+{
+  "_id": {
+    "$oid": "66400b82c72a0026bfa00935"
+  },
+  "nombre_equipo": "Stefanos Tsitsipas",
+  "país_equipo": "Grecia"
+}]
